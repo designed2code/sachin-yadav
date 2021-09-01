@@ -203,14 +203,15 @@ section > h2{
         flex-wrap: wrap;
     }
 }
+
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     html,body{
         overflow-x: hidden;
     }
+    
     .sub-section{
-        display: block;
-        
+        display: block;   
     }
     .headshot-container{
         display: flex;
@@ -231,9 +232,6 @@ section > h2{
     .fancy{
         font-size: 20px;
     }
-    path{
-        margin-right: 50px;
-    }
     .button{
     width: 100px;
     height: 25px;
@@ -249,8 +247,7 @@ section > h2{
         width: fit-content;
     }
     .email{
-        font-size: 20px;
-        text-align: center;
+        font-size: 10px;
     }
     .desktop-separator{
         display: none;
@@ -261,7 +258,7 @@ section > h2{
         background-color: black;
     }
     div .socials{
-        margin-right: 25px;
+        margin-right: 20px;
     }
   }
 .project-image{
