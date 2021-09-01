@@ -1,0 +1,4 @@
+Projects green ribbon highlight https://www.coding-dude.com/wp/css/highlight-text-css/
+Clip path https://bennettfeely.com/clippy/
+Box shadow https://cssgenerator.org/gradient-css-generator.html
+https://getwaves.io/
