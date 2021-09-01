@@ -87,6 +87,9 @@ em{
     text-decoration-color: rgb(209, 68, 68);
     text-decoration-thickness: 3.5px;
 }
+.mobile-separator{
+    display: none;
+}
 h1{
     font-size: 90px;
     margin: 0px;
@@ -207,6 +210,7 @@ section > h2{
     }
     .sub-section{
         display: block;
+        
     }
     .headshot-container{
         display: flex;
@@ -246,6 +250,18 @@ section > h2{
     }
     .email{
         font-size: 20px;
+        text-align: center;
+    }
+    .desktop-separator{
+        display: none;
+    }
+    .mobile-separator{
+        display: block;
+        border: 2px solid #2b2c38;
+        background-color: black;
+    }
+    div .socials{
+        margin-right: 25px;
     }
   }
 .project-image{
