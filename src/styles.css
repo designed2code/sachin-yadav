@@ -209,7 +209,9 @@ section > h2{
     html,body{
         overflow-x: hidden;
     }
-    
+    .hero-text{
+        margin-right: 25px;
+    }
     .sub-section{
         display: block;   
     }
@@ -247,7 +249,11 @@ section > h2{
         width: fit-content;
     }
     .email{
-        font-size: 10px;
+        font-size: 15px;
+    }
+    footer > h2{
+        font-size: 30px;
+        text-decoration-thickness: 3px; 
     }
     .desktop-separator{
         display: none;
